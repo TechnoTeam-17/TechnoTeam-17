@@ -12,13 +12,13 @@
 ---
 ---
 
-<h5 left="center">👋 Aygul Abilova - Software Development Engineer in Test (abilovaygul@gmail.com) </h5> 
-<h5 left="center">👋 Alpaslan Alemdar - Software Development Engineer in Test ( alpaslanalemdar5406@hotmail.com)</h5> 
-<h5 left="center">👋 Hakan Kılıç - Software Development Engineer in Test (Aliyamnuveybam@gmail.com)</h5> 
-<h5 left="center">👋 Neslihan Terlemez - Software Development Engineer in Test ( terlemez.neslihan@gmail.com )</h5> 
-<h5 left="center">👋 Nergis Reçel - Software Development Engineer in Test (nergisrecel@hotmail.com)</h5> 
-<h5 left="center">👋 Omer Al- Software Development Engineer in Test (xfinaldest@gmail.com)</h5> 
-<h5 left="center">👋 Sokol Rrustemi- Software Development Engineer in Test (sokolrrustemi@gmail.com)</h5> 
+<h4 left="center">👋 Aygul Abilova - Software Development Engineer in Test (abilovaygul@gmail.com) </h4> 
+<h4 left="center">👋 Alpaslan Alemdar - Software Development Engineer in Test ( alpaslanalemdar5406@hotmail.com)</h4> 
+<h4 left="center">👋 Hakan Kılıç - Software Development Engineer in Test (Aliyamnuveybam@gmail.com)</h4> 
+<h4 left="center">👋 Neslihan Terlemez - Software Development Engineer in Test ( terlemez.neslihan@gmail.com )</h4> 
+<h4 left="center">👋 Nergis Reçel - Software Development Engineer in Test (nergisrecel@hotmail.com)</h4> 
+<h4 left="center">👋 Omer Al- Software Development Engineer in Test (xfinaldest@gmail.com)</h4> 
+<h4 left="center">👋 Sokol Rrustemi- Software Development Engineer in Test (sokolrrustemi@gmail.com)</h4> 
 
 ---
 ---
