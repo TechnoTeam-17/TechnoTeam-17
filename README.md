@@ -10,8 +10,9 @@
 <h5 align="center">👋 Omer Al- Software Development Engineer in Test (xfinaldest@gmail.com)</h5> 
 <h5 align="center">👋 Sokol Rrustemi- Software Development Engineer in Test (sokolrrustemi@gmail.com)</h5> 
 
+
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TechnoTeam-17&theme=dark&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=TechnoTeam-17&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=TechnoTeam-17&theme=dark&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoTeam-17&theme=dark&hide=javascript,html&include_all_commits=true&count_private=true)
 
 ### 🏆 GitHub Trophies
