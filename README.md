@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">THE BEST TEAM ⚡</h1> 
+<h1 align="center">THE BEST TECHNO TEAM ⚡</h1> 
                                         
 <h5 align="center">👋 Aygul Abilova - Software Development Engineer in Test (abilovaygul@gmail.com) </h5> 
 <h5 align="center">👋 Alpaslan Alemdar - Software Development Engineer in Test ( alpaslanalemdar5406@hotmail.com)</h5> 
@@ -21,7 +21,7 @@
  
  ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
- ### 💻 Tech Stack:
+### 💻 Tech Stack:
 ![Maven Central](https://img.shields.io/maven-central/v/org.seleniumhq.selenium/selenium-java?versionSuffix=4.11.0&label=Selenium)
 ![Maven Central](https://img.shields.io/maven-central/v/io.cucumber/cucumber-java?versionSuffix=7.9.0&label=Cucumber)
 ![Maven Central](https://img.shields.io/maven-central/v/org.testng/testng?versionSuffix=7.7.0&label=TestNG)
