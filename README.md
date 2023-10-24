@@ -1,12 +1,12 @@
 
-<align="center">![Photo](https://github.com/TechnoTeam-17/TechnoTeam-17/assets/142696425/4a95d568-b450-45c1-b793-40a07e30ae70)</> 
+                                                ![Photo](https://github.com/TechnoTeam-17/TechnoTeam-17/assets/142696425/4a95d568-b450-45c1-b793-40a07e30ae70)
 
 
 
 
 
 
-<h1 align="center">THE BEST TECHNO TEAM ⚡</h1> 
+<h1 align="center"> THE BEST TECHNO TEAM ⚡</h1> 
                                         
 <h5 align="center">👋 Aygul Abilova - Software Development Engineer in Test (abilovaygul@gmail.com) </h5> 
 <h5 align="center">👋 Alpaslan Alemdar - Software Development Engineer in Test ( alpaslanalemdar5406@hotmail.com)</h5> 
