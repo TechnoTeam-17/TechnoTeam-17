@@ -1,6 +1,28 @@
 ![black text](http://placehold.it/size/background-hex/foreground-hex?text=a123)
+dependencies: [
+    ...,
+    .package(url: "https://github.com/nodes-vapor/flash.git", from: "4.0.0")
+]
+targets: [
+    ...
+    .target(
+        name: "App",
+        dependencies: [... "Flash" ...]
+    ),
+    ...
+]
+import Flash
+public func configure(_ config: inout Config, _ env: inout Environment, _ services: inout Services) throws {
+    try services.register(FlashProvider())
+}
+func configure(_ app: Application) throws {
+    app.middleware.use(FlashMiddleware())
+}
+func configure(_ app: Application) throws {
+    app.leaf.tags["flashes"] = FlashTag()
+}
 
-<h1 align="center">THE BEST TEAM ⚡</h1> 
+request.redirect(to: "/users").flash <h1 align="center">THE BEST TEAM ⚡</h1> 
                                         
 <h5 align="center">👋 Aygul Abilova - Software Development Engineer in Test (abilovaygul@gmail.com) </h5> 
 <h5 align="center">👋 Alpaslan Alemdar - Software Development Engineer in Test ( alpaslanalemdar5406@hotmail.com)</h5> 
