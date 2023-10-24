@@ -1,5 +1,6 @@
 
-<div align="center">![Photo](https://github.com/TechnoTeam-17/TechnoTeam-17/assets/142696425/8ab4d923-e9b3-4166-8fc4-5874ca1321b4)</div> 
+![images](https://github.com/TechnoTeam-17/TechnoTeam-17/assets/142696425/13803093-cd04-4106-80f6-3a58feadc3f8)
+
 
 
 
