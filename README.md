@@ -32,6 +32,8 @@
 
 - email:  technostudyteam17@gmail.com - github: https://github.com/TechnoTeam-17
 ---
+---
+[![](https://visitor-badge.laobi.icu/badge?page_id=TechnoTeam-17)](#)
 
 
 
