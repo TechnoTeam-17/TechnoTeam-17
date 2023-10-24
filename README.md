@@ -11,7 +11,7 @@
 
 ---
 ---
----
+
 <h5 left="center">👋 Aygul Abilova - Software Development Engineer in Test (abilovaygul@gmail.com) </h5> 
 <h5 left="center">👋 Alpaslan Alemdar - Software Development Engineer in Test ( alpaslanalemdar5406@hotmail.com)</h5> 
 <h5 left="center">👋 Hakan Kılıç - Software Development Engineer in Test (Aliyamnuveybam@gmail.com)</h5> 
@@ -20,16 +20,21 @@
 <h5 left="center">👋 Omer Al- Software Development Engineer in Test (xfinaldest@gmail.com)</h5> 
 <h5 left="center">👋 Sokol Rrustemi- Software Development Engineer in Test (sokolrrustemi@gmail.com)</h5> 
 
+---
+---
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TechnoTeam-17&theme=dark&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoTeam-17&theme=dark&hide=javascript,html&include_all_commits=true&count_private=true)
-
+---
+---
 ### 🏆 GitHub Trophies
  ![](https://github-profile-trophy.vercel.app/?username=TechnoTeam-17&theme=radical&no-frame=true&no-bg=false&margin-w=4)
- 
+
+---
  ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
+---
 ### 💻 Tech Stack:
 ![Maven Central](https://img.shields.io/maven-central/v/org.seleniumhq.selenium/selenium-java?versionSuffix=4.11.0&label=Selenium)
 ![Maven Central](https://img.shields.io/maven-central/v/io.cucumber/cucumber-java?versionSuffix=7.9.0&label=Cucumber)
