@@ -1,6 +1,6 @@
+![black text](http://placehold.it/size/background-hex/foreground-hex?text=a123)
 
-
-<h1 style="color:Tomato,text-align=center">THE BEST TEAM ⚡</h1> 
+<h1 align="center">THE BEST TEAM ⚡</h1> 
                                         
 <h5 align="center">👋 Aygul Abilova - Software Development Engineer in Test (abilovaygul@gmail.com) </h5> 
 <h5 align="center">👋 Alpaslan Alemdar - Software Development Engineer in Test ( alpaslanalemdar5406@hotmail.com)</h5> 
