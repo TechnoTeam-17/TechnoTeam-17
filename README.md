@@ -1,5 +1,5 @@
 
-<h1 align="center">![Photo](https://github.com/TechnoTeam-17/TechnoTeam-17/assets/142696425/4a95d568-b450-45c1-b793-40a07e30ae70)</h1> 
+<align="center">![Photo](https://github.com/TechnoTeam-17/TechnoTeam-17/assets/142696425/4a95d568-b450-45c1-b793-40a07e30ae70)</> 
 
 
 
