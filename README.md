@@ -1,5 +1,6 @@
 
-![How-to-Become-a-Software-Development-Engineer-in-Test-SDET](https://github.com/TechnoTeam-17/TechnoTeam-17/assets/142696425/cbd7b902-decb-417e-beca-c4de31617e68)
+
+![1_SIZcDyNb6Gfrh9BKnsuk3w](https://github.com/TechnoTeam-17/TechnoTeam-17/assets/142696425/26dae622-c0f4-414f-94e6-7ce1a7a66d0c)
 
 
 
