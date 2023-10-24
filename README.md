@@ -1,8 +1,7 @@
 
+![images](https://github.com/TechnoTeam-17/TechnoTeam-17/assets/142696425/f7ad92bb-16fb-4666-9f27-392de7bb335b)
 
 
-
-![1_SIZcDyNb6Gfrh9BKnsuk3w](https://github.com/TechnoTeam-17/TechnoTeam-17/assets/142696425/6fce7a59-5261-4310-bbc0-1fa4de399158)
 
 
 
