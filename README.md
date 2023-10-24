@@ -1,5 +1,6 @@
 
-![images](https://github.com/TechnoTeam-17/TechnoTeam-17/assets/142696425/f7ad92bb-16fb-4666-9f27-392de7bb335b)
+![How-to-Become-a-Software-Development-Engineer-in-Test-SDET](https://github.com/TechnoTeam-17/TechnoTeam-17/assets/142696425/755967c5-5b8c-42c5-9227-445a12b0d36e)
+
 
 
 
