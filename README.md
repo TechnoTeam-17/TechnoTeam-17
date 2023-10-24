@@ -13,8 +13,8 @@
 
 
 ### 📊 GitHub Stats:
-<h5 align="center">![](https://github-readme-stats.vercel.app/api?username=TechnoTeam-17&theme=dark&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoTeam-17&theme=dark&hide=javascript,html&include_all_commits=true&count_private=true)</h5> 
+![](https://github-readme-stats.vercel.app/api?username=TechnoTeam-17&theme=dark&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoTeam-17&theme=dark&hide=javascript,html&include_all_commits=true&count_private=true)
 
 ### 🏆 GitHub Trophies
  ![](https://github-profile-trophy.vercel.app/?username=TechnoTeam-17&theme=radical&no-frame=true&no-bg=false&margin-w=4)
