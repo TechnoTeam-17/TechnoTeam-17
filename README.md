@@ -1,12 +1,7 @@
 
-<style>
-  body {
-    background-color: Violet;
-  }
-</style>
 
 
-<h1 align="center">THE BEST TEAM ⚡</h1> 
+<h1 style="background-color:DodgerBlue;">THE BEST TEAM ⚡</h1> 
                                         
 <h5 align="center">👋 Aygul Abilova - Software Development Engineer in Test (abilovaygul@gmail.com) </h5> 
 <h5 align="center">👋 Alpaslan Alemdar - Software Development Engineer in Test ( alpaslanalemdar5406@hotmail.com)</h5> 
