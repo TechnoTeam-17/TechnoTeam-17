@@ -8,7 +8,10 @@
 
 
 <h1 left="right"> THE BEST TECHNO TEAM ⚡</h1> 
-                                        
+
+---
+---
+---
 <h5 left="center">👋 Aygul Abilova - Software Development Engineer in Test (abilovaygul@gmail.com) </h5> 
 <h5 left="center">👋 Alpaslan Alemdar - Software Development Engineer in Test ( alpaslanalemdar5406@hotmail.com)</h5> 
 <h5 left="center">👋 Hakan Kılıç - Software Development Engineer in Test (Aliyamnuveybam@gmail.com)</h5> 
