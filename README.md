@@ -1,8 +1,7 @@
 
-
+<p align="center"> 
 ![Photo](https://github.com/TechnoTeam-17/TechnoTeam-17/assets/142696425/8ab4d923-e9b3-4166-8fc4-5874ca1321b4)
-<img src="Photo.jpg"class="center">
-
+</p> 
 
 
 
