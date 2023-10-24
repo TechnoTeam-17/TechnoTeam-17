@@ -1,7 +1,7 @@
 
- <style>
+<style>
   body {
-    background-color: #ff66ff;
+    background-color: Violet;
   }
 </style>
 
