@@ -1,6 +1,7 @@
 
+![rsz_photo](https://github.com/TechnoTeam-17/TechnoTeam-17/assets/142696425/2874c43f-1423-42b3-9bad-36b74c0dee4e)
 
-![Photo](https://github.com/TechnoTeam-17/TechnoTeam-17/assets/142696425/788be8f4-17e7-4b18-830d-fa7e3704084f)
+
 
 
 
